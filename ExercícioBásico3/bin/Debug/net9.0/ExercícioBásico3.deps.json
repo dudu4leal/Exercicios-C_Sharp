@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExercícioBásico3/1.0.0": {
+        "runtime": {
+          "ExercícioBásico3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercícioBásico3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.sourcelink.json
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\bin\Debug\net9.0\ExercícioBásico3.exe
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\bin\Debug\net9.0\ExercícioBásico3.deps.json
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\bin\Debug\net9.0\ExercícioBásico3.runtimeconfig.json
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\bin\Debug\net9.0\ExercícioBásico3.dll
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\bin\Debug\net9.0\ExercícioBásico3.pdb
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.dll
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\refint\ExercícioBásico3.dll
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.pdb
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ExercícioBásico3.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioBásico3\obj\Debug\net9.0\ref\ExercícioBásico3.dll

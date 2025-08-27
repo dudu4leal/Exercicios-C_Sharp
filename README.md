@@ -1,2 +1,2 @@
 # Exercicios-C_Sharp
-Exercícios para aprendizado da linguagem C#
+Exercícios para aprendizado de orientação à objetos na linguagem C#
