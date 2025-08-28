@@ -8,7 +8,7 @@ while (true)
     string resposta = Console.ReadLine().ToUpper();
     while (resposta != "S" && resposta != "N")
     {
-        Console.WriteLine("Resposta inválida. Digite novamente [S/N]");
+        Console.WriteLine("Resposta inválida. Digite novamente [S/N]").Toupper();
         resposta = Console.ReadLine();
     }
 
