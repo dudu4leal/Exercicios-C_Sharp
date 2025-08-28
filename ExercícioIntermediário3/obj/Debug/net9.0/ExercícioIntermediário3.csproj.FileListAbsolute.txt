@@ -1,0 +1,15 @@
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.AssemblyInfoInputs.cache
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.AssemblyInfo.cs
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.csproj.CoreCompileInputs.cache
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.sourcelink.json
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\bin\Debug\net9.0\ExercícioIntermediário3.exe
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\bin\Debug\net9.0\ExercícioIntermediário3.deps.json
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\bin\Debug\net9.0\ExercícioIntermediário3.runtimeconfig.json
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\bin\Debug\net9.0\ExercícioIntermediário3.dll
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\bin\Debug\net9.0\ExercícioIntermediário3.pdb
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.dll
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\refint\ExercícioIntermediário3.dll
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.pdb
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ExercícioIntermediário3.genruntimeconfig.cache
+C:\Users\dudsl\Desktop\Exercicios-C_Sharp\ExercícioIntermediário3\obj\Debug\net9.0\ref\ExercícioIntermediário3.dll
