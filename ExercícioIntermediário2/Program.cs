@@ -8,8 +8,8 @@ while (true)
     string resposta = Console.ReadLine().ToUpper();
     while (resposta != "S" && resposta != "N")
     {
-        Console.WriteLine("Resposta inválida. Digite novamente [S/N]").Toupper();
-        resposta = Console.ReadLine();
+        Console.WriteLine("Resposta inválida. Digite novamente [S/N]");
+        resposta = Console.ReadLine().ToUpper();
     }
 
 
@@ -41,7 +41,7 @@ while (true)
             {
                 Console.WriteLine("Resposta inváçida. Digite novamente");
                 input = Console.ReadLine();
-                resposta2 = Convert.ToInt32(resposta2);
+                resposta2 = Convert.ToInt32(input);
                 
             }
 
