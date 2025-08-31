@@ -1,9 +1,37 @@
 namespace ExercicioIntermediario3;
 
+using System.Text.Json;
+
+
 public class AgendaTelefonica
 {
 
     public List<Contato> Contatos { get; set; } = new List<Contato>();
+
+    private string CaminhoArquivo = "contato.json";
+
+
+    public void SalvarContatos()
+    {
+        string json = JsonSerializer.Serialize(Contatos, new JsonSerializerOptions { WriteIndented = true });
+        File.WriteAllText(CaminhoArquivo, json);
+        Console.WriteLine("Contatos salvos com sucesso");
+    }
+
+    public void CarregarContatos()
+    {
+
+        if (File.Exists(CaminhoArquivo))
+        {
+            string json = File.ReadAllText(CaminhoArquivo);
+            Contatos = JsonSerializer.Deserialize<List<Contato>>(json) ?? new List<Contato>();
+            Console.WriteLine("Contatos carregados com sucesso");
+        }
+        else
+        {
+            Console.WriteLine("Nenhum dado de contato encontrado. Criando uma nova agenda.");
+        }
+    }
 
     public void AdicionarContato()
     {
@@ -36,7 +64,7 @@ public class AgendaTelefonica
 
         for (int i = 0; i < (Contatos.Count); i++)
         {
-            Console.WriteLine($"[{i+1}] {Contatos[i].Nome}");
+            Console.WriteLine($"[{i + 1}] {Contatos[i].Nome}");
         }
 
 
@@ -63,7 +91,7 @@ public class AgendaTelefonica
             {
                 Console.WriteLine("Entrada inválida. Digite novamente.");
             }
-            
+
         }
     }
 

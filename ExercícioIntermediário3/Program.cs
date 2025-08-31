@@ -4,6 +4,8 @@ using ExercicioIntermediario3;
 
 AgendaTelefonica agendaTelefonica = new AgendaTelefonica();
 
+agendaTelefonica.CarregarContatos();
+
 while (true)
 {
     Console.WriteLine("\nAGENDA TELEFONICA\n");
@@ -21,13 +23,13 @@ while (true)
     while (!int.TryParse(opcao, out intOpcao) || intOpcao < 1 || intOpcao > 4)
     {
         Console.WriteLine("Opção inválida. Digite novamente");
-        opcao = Console.ReadLine();           
+        opcao = Console.ReadLine();
     }
 
 
     if (intOpcao == 1)
     {
-            agendaTelefonica.BuscarContato();
+        agendaTelefonica.BuscarContato();
     }
     else if (intOpcao == 2)
     {
@@ -40,6 +42,7 @@ while (true)
     else if (intOpcao == 4)
     {
         Console.WriteLine("Fechando a aplicação...");
+        agendaTelefonica.SalvarContatos();
         break;
     }
 
